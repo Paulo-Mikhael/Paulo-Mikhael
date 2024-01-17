@@ -2,21 +2,6 @@
 
 - 🔭 Atualmente focado em meu portifólio e em aprender novas linguagens para back-end
 - 📜 Estudando PHP e JavaScript
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Paulo-Mikhael&show_icons=true&theme=dracula"
-  />
-  <img heigth="70px" src="https://github-readme-stats.vercel.app/api?username=Paulo-Mikhael&show_icons=true">
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Mikhael&show_icons=true&theme=dracula"
-  />
-  <img width="285px" src="https://github.com/Paulo-Mikhael/github-readme-stats">
-</picture>
-<br><br>
 <div style="display: inline_block">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c-sharp-icon"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
