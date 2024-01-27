@@ -1,7 +1,7 @@
 <h1 margin="0px">Olá, eu sou o Paulo Miguel, estou na minha jornada para me tornar um ótimo profissional back-end</h1>
 
-- 🔭 Atualmente focado em meu portifólio e em aprender novas linguagens para back-end
-- 📜 Estudando PHP e JavaScript
+- 🔭 Focado em meu portifólio e em aprender novas linguagens para back-end
+- 📜 Estudando Criação de API's Web com C#
 <div style="display: inline_block">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c-sharp-icon"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
