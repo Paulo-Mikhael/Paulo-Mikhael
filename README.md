@@ -12,6 +12,7 @@
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql-server-icon"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div><br>
 
 <div style="display: inline_block;">
@@ -19,4 +20,10 @@
   <a href="https://www.instagram.com/pa__miguel?igsh=MWxoYzdqNGluZWcyaA=="><img width="135px" height="40px" align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo"></a>
   <a href="https://www.linkedin.com/in/paulo-miguel-4b706022b/"><img width="135px" height="40px" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
   <a href="https://paulo-mikhael.github.io/formulario-contato/"><img width="135px" height="40px" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email-logo"></a>
+</div>
+
+<div>
+  <a href="https://github.com/Paulo-Mikhael">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Mikhael&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Mikhael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
