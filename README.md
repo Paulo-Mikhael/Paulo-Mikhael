@@ -1,7 +1,7 @@
 # Olá, eu sou o Paulo Miguel, estou na minha jornada para me tornar um ótimo desenvolvedor Front-End
 
 ## Sobre Mim
-  ### Minha meta na vida é ser programador, um trabalho no qual requer muita lógica e comunicação, por esse motivo, essas são as duas áreas que eu mais aprimoro em mim. Estou preparado para enfrentar qualquer situação em que eu tenha que interagir com um grupo ou até mesmo lidera-los, dessa forma, se eu fosse resumir meu objetivo trabalhando dentro da empresa, seria, ter um bom networking e contribuir com o meu melhor para o sucesso do time.
+  ### Me chamo Paulo Miguel Bentes do Nascimento, tenho 18 anos, sou de Manaus/AM. Além das minhas habilidades técnicas em programação, acredito que essa é uma área que requer muita lógica e comunicação, não só para contribuir com um time, mas também para criar sites que envolvam o usuário e transmitam a sensação que a empresa deseja passar, por esse motivo, também estudo UI e UX design para me auxiliar a desenvolver essas interfaces tão únicas quanto a empresa.
 
 ## Habilidades Técnicas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -9,21 +9,28 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![ANGULAR](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![NODE.JS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+
+## Plataformas usadas
+![VISUAL-STUDIO](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VISUAL-STUDIO-CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![MY-SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![SQL-SERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## Talvez você queira ver 💡
   ### [Portifólio](https://paulo-mikhael.github.io/Portifolio)
   ### [Currículo (png, jpg ou pdf)](https://drive.google.com/drive/folders/1ER7n3GHZmokEsQJkf6yFAG3E0dC1oLfq?usp=drive_link)
 
 ## Confira meus outros projetos 🛠️
-  - [XWriter - Poste seus momentos](https://xwriter.vercel.app)
-  - [Fastask - Gerenciador de Tarefas](https://paulo-mikhael.github.io/fastask)
-  - [Landing Page para uma academia](https://paulo-mikhael.github.io/academia-landing-page)
-  - [Landing Page para um e-commerce de plantas](https://casa-verde-pink-phi.vercel.app/)
-  - [[Clone] Pagina da Unity](https://paulo-mikhael.github.io/pagina-unity-2024)
-  - [[Clone] Pagina do Gartic](https://paulo-mikhael.github.io/pagina-gartic-2024)
+  - [XWriter - Poste seus momentos](https://github.com/Paulo-Mikhael/XWriter?tab=readme-ov-file#readme)
+  - [Fastask - Gerenciador de Tarefas](https://github.com/Paulo-Mikhael/fastask?tab=readme-ov-file#readme)
+  - [Landing Page para uma academia](https://github.com/Paulo-Mikhael/academia-landing-page?tab=readme-ov-file#readme)
+  - [Landing Page para um e-commerce de plantas](https://github.com/Paulo-Mikhael/casa-verde?tab=readme-ov-file#readme)
+  - [Landing Page para um e-commerce de eletrônicos](https://github.com/Paulo-Mikhael/phlox?tab=readme-ov-file#readme)
 
 ## Contatos
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://paulo-mikhael.github.io/Portifolio/Pages/contacts/)
