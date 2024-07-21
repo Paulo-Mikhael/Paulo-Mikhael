@@ -26,11 +26,11 @@
   ### [Currículo (png, jpg ou pdf)](https://drive.google.com/drive/folders/1ER7n3GHZmokEsQJkf6yFAG3E0dC1oLfq?usp=drive_link)
 
 ## Confira meus outros projetos 🛠️
-  - [XWriter - Poste seus momentos](https://github.com/Paulo-Mikhael/XWriter?tab=readme-ov-file#readme)
-  - [Fastask - Gerenciador de Tarefas](https://github.com/Paulo-Mikhael/fastask?tab=readme-ov-file#readme)
-  - [Landing Page para uma academia](https://github.com/Paulo-Mikhael/academia-landing-page?tab=readme-ov-file#readme)
-  - [Landing Page para um e-commerce de plantas](https://github.com/Paulo-Mikhael/casa-verde?tab=readme-ov-file#readme)
-  - [Landing Page para um e-commerce de eletrônicos](https://github.com/Paulo-Mikhael/phlox?tab=readme-ov-file#readme)
+  - [XWriter - Poste seus momentos](https://github.com/Paulo-Mikhael/XWriter?tab=readme-ov-file#xwriter)
+  - [Fastask - Gerenciador de Tarefas](https://github.com/Paulo-Mikhael/fastask?tab=readme-ov-file#fastask---gerenciador-de-tarefas)
+  - [Landing Page para uma academia](https://github.com/Paulo-Mikhael/academia-landing-page?tab=readme-ov-file#academia-vitalidade-fitness)
+  - [Landing Page para um e-commerce de plantas](https://github.com/Paulo-Mikhael/casa-verde?tab=readme-ov-file#casa-verde)
+  - [Landing Page para um e-commerce de eletrônicos](https://github.com/Paulo-Mikhael/phlox?tab=readme-ov-file#phlox)
 
 ## Contatos
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://paulo-mikhael.github.io/Portifolio/Pages/contacts/)
