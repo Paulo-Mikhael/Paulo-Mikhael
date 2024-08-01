@@ -23,7 +23,6 @@
 
 ## Talvez você queira ver 💡
   ### [Portifólio](https://paulo-mikhael.github.io/Portifolio)
-  ### [Currículo (png, jpg ou pdf)](https://drive.google.com/drive/folders/1ER7n3GHZmokEsQJkf6yFAG3E0dC1oLfq?usp=drive_link)
 
 ## Confira meus outros projetos 🛠️
   - [XWriter - Poste seus momentos](https://github.com/Paulo-Mikhael/XWriter?tab=readme-ov-file#xwriter)
