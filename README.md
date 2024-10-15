@@ -31,11 +31,10 @@
 
 ## Confira meus outros projetos 🛠️
   - [Blog PHLOX - Blog para uma empresa de tecnologia](https://github.com/Paulo-Mikhael/phlox-blog?tab=readme-ov-file#readme)
+  - [Dieta.AI - App mobile de geração de dietas](https://github.com/Paulo-Mikhael/dietaai-mobile?tab=readme-ov-file#readme)
   - [in.orbit backend - API de metas](https://github.com/Paulo-Mikhael/in-orbit-backend?tab=readme-ov-file#readme)
-  - [in.orbit frontend - Gerenciamento de metas](https://github.com/Paulo-Mikhael/in-orbit-frontend?tab=readme-ov-file#readme)
   - [Fastask - Gerenciador de Tarefas](https://github.com/Paulo-Mikhael/fastask?tab=readme-ov-file#readme)
   - [Landing Page para uma academia](https://github.com/Paulo-Mikhael/academia-landing-page?tab=readme-ov-file#readme)
-  - [Landing Page para um e-commerce de plantas](https://github.com/Paulo-Mikhael/casa-verde?tab=readme-ov-file#readme)
   - [Landing Page para um e-commerce de eletrônicos](https://github.com/Paulo-Mikhael/phlox?tab=readme-ov-file#readme)
 
 ## Contatos
