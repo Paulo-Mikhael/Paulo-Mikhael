@@ -33,9 +33,9 @@
   - [Blog PHLOX - Blog para uma empresa de tecnologia](https://github.com/Paulo-Mikhael/phlox-blog?tab=readme-ov-file#readme)
   - [Dieta.AI - App mobile de geração de dietas](https://github.com/Paulo-Mikhael/dietaai-mobile?tab=readme-ov-file#readme)
   - [in.orbit backend - API de metas](https://github.com/Paulo-Mikhael/in-orbit-backend?tab=readme-ov-file#readme)
+  - [Nutri+ - Dashboard Nutricional](https://github.com/Paulo-Mikhael/nutri-plus-dashboard?tab=readme-ov-file#readme)
   - [Fastask - Gerenciador de Tarefas](https://github.com/Paulo-Mikhael/fastask?tab=readme-ov-file#readme)
   - [Landing Page para uma academia](https://github.com/Paulo-Mikhael/academia-landing-page?tab=readme-ov-file#readme)
-  - [Landing Page para um e-commerce de eletrônicos](https://github.com/Paulo-Mikhael/phlox?tab=readme-ov-file#readme)
 
 ## Contatos
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://portifolio-react-three.vercel.app/contacts/)
