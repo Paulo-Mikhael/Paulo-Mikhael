@@ -31,7 +31,6 @@
   - [Landing Page para uma plataforma de venda de ingressos](https://github.com/Paulo-Mikhael/cinema-lp?tab=readme-ov-file#readme)
   - [Blog API - API para blogs](http://github.com/Paulo-Mikhael/blog-api?tab=readme-ov-file)
   - [Barbershop - Sistema de agendamento](https://github.com/Paulo-Mikhael/cinema-lp?tab=readme-ov-file#readme)
-  - [XWritter - Aplicação para compartilhar posts](https://github.com/Paulo-Mikhael/xwriter?tab=readme-ov-file#readme)
 
 ## Contatos
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://portifolio-react-three.vercel.app/contacts/)
